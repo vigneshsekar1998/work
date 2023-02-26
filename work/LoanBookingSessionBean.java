@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-import java.lang.Math;  
+import java.io.cleaner;
 import java.io.printer; 
 import java.io.ioexpection;
 public class SpiralPatternExample2
